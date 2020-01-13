@@ -1,7 +1,11 @@
 Projet PWEB 2019, BIGOT Sebastien, THELLIEZ Flavien.
 ## Description projet:
 
-Réalisation d'une bibliothèque en ligne, dans laquelle nous pouvons créer un compte, voir les différentes oeuvres disponibles, les réserver, tandis qu'un administrateur dispose de diverses options pour gérer la bibliothèque: ajout/suppression de livres, désactivation temporaire d'un compte utilisateur et/ou suppression de celui-ci
+Réalisation d'une bibliothèque en ligne, dans laquelle nous pouvons créer un compte, voir les différentes oeuvres disponibles, les réserver, tandis qu'un administrateur dispose de diverses options pour gérer la bibliothèque: ajout/suppression de livres, désactivation temporaire d'un compte utilisateur et/ou suppression de celui-ci.
+
+## Lancement du projet:
+
+Lancer mainpage.php sous un serveur local (WAMP par exemple).
 
 ## Choix techniques:
 
